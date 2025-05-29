@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amirantadbir.com/sitemap.xml

@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fsensors\u002Fcems\u002F[item]","\u002Fsensors\u002Fdust-meter\u002F[item]","\u002Fsensors\u002Fflow-meter\u002F[item]","\u002Fsensors\u002Fgas-analyzer\u002F[item]","\u002Fsolar-cells\u002Fenergy-storage\u002F[item]","\u002Fsolar-cells\u002Fmodules\u002F[item]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
