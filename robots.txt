@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://amirantadbir.org
+
+# Sitemaps
+Sitemap: https://amirantadbir.org/sitemap.xml

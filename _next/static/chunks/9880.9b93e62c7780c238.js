@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9880],{7499:e=>{e.exports=JSON.parse('{"department":"قسم التصدير","title":"سبائك الألمنيوم","description":"سبائك الألمنيوم بالمواصفات التالية جاهزة للتصدير:","specifications":["درجة A7، شركة المهدي","درجة A8، شركة سالكو","طريقة التسليم: فوب بندر عباس"],"orderSentence":"اطلب المنتج"}')}}]);

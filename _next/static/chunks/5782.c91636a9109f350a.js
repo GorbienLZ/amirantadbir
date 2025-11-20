@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5782],{5782:e=>{e.exports=JSON.parse('{"department":"دپارتمان صادرات","title":"شمش آلومینیوم","description":"شمش آلومینیوم با مشخصات ذیل آماده صادرات است:","specifications":["گرید A7 شرکت المهدی","گرید A8 شرکت سالکو","نحوه تحویل: FOB بندر عباس"],"orderSentence":"سفارش محصول"}')}}]);

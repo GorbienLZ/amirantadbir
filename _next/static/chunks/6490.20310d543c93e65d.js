@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6490],{6490:e=>{e.exports=JSON.parse('{"department":"دپارتمان صادرات:","title":"محصول روی","orderSentence":"سفارش محصول","specifications":["خلوص: 90.97 - 90.99 درصد","نحوه ارسال: FOB از بندرعباس","مقدار: 500 تن به صورت نقدی","پکیینگ: استاندارد صادراتی","کاربرد: گالوانیزه کردن، تهیه آلیاژ، ریخته گری"]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[252],{252:e=>{e.exports=JSON.parse('{"department":"قسم التصدير:","title":"منتج الزنك","orderSentence":"اطلب هذا المنتج","specifications":["النقاوة: ٩٩.٩٧ – ٩٩.٩٩٪","طريقة الشحن: فوب من بندر عباس","الكمية: ٥٠٠ طن بدفع نقدي","التغليف: معيار التصدير","التطبيقات: الجلفنة، إنتاج السبائك، الصب"]}')}}]);

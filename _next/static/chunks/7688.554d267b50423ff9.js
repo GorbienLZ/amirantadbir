@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7688],{7688:e=>{e.exports=JSON.parse('{"description":{"specifications":"ویژگی ها و مشخصات","electrical":"مشخصات الکتریکی","mechanical":"مشخصات مکانیکی","technical":"مشخصات فنی","orderSentence":"برای دریافت مشاوره تخصصی یا ثبت سفارش، با ما تماس بگیرید","properties":"ویژگی ها","specialties":"مشخصات"}}')}}]);
